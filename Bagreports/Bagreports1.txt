@@ -1,0 +1,22 @@
+ID
+
+Summary
+
+Project
+
+Vertion
+
+Severity
+
+Priority
+
+Status 
+
+Environment
+
+Steps to reproduse
+
+Actual Result
+
+Expected Result
+
